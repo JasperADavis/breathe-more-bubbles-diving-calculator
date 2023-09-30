@@ -1,6 +1,5 @@
 # Breathe More Bubbles | CS50P
 #### Video Demo: https://youtu.be/DGpjk8S9PNI
-#### Description:
 
 ## Purpose
 
